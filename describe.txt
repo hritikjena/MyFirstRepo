@@ -5,3 +5,9 @@ i am adiing unicorn ranbow as a new branch.;)
  the details of the repo is:-
 
 this is a repo in which i practices on github to look how it works. thats all
+
+tthe college details are:-
+
+i am a student of Bhadrak Autonomous college.
+my student roll number is BS22-123.
+i am in 2nd year of CS deparment.
